@@ -19,4 +19,4 @@ To do so, just replace the ```tflite``` model in the asset folder.
  implementation 'org.tensorflow:tensorflow-lite-support:0.0.0-nightly'
 
 ```
-3. 
+3. Build and Run the app. 
