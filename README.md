@@ -5,7 +5,7 @@ To do so, just replace the ```tflite``` model in the asset folder.
 
 ## Usage
 1. Add the following permissions in the ```Manifest.xml``` file.
-    ```<uses-permission android:name="android.permission.CAMERA"/>```
+    ```<uses-permission android:name="android.permission.CAMERA"/> \
        ```<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>```
        
 2. Add the following dependencies in the ```gradle``` file. 
